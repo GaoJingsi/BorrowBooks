@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">借书</string>
+    <string name="label_reader">读者:</string>
+    <string name="edit_text_hint_reader">请输入名字</string>
+    <string name="label_sex">性别:</string>
+    <string name="radio_male">男</string>
+    <string name="radio_female">女</string>
+    <string name="label_borrow_time">借书时间:</string>
+    <string name="label_return_time">归还时间:</string>
+    <string name="edit_text_hint_please_type">请输入</string>
+</resources>
