@@ -22,7 +22,7 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:layout_width="80dp"
+            android:layout_width="63dp"
             android:layout_height="wrap_content"
             android:layout_gravity="fill_horizontal|center_vertical"
             android:gravity="right"
@@ -36,7 +36,7 @@
             android:hint="@string/edit_text_hint_reader"/>
 
         <TextView
-            android:layout_width="80dp"
+            android:layout_width="63dp"
             android:layout_height="wrap_content"
             android:layout_gravity="fill_horizontal|center_vertical"
             android:gravity="right"
@@ -45,19 +45,21 @@
         <RadioGroup
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="fill_horizontal|center_vertical"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:orientation="horizontal">
 
             <RadioButton
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_weight="1"
                 android:text="@string/radio_male"/>
 
             <RadioButton
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/radio_female"/>
+                android:layout_weight="1"
+                android:text="@string/radio_female" />
 
         </RadioGroup>
 
@@ -68,7 +70,7 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:layout_width="80dp"
+            android:layout_width="63dp"
             android:layout_height="wrap_content"
             android:layout_gravity="fill_horizontal|center_vertical"
             android:gravity="right"
@@ -82,7 +84,7 @@
             android:hint="@string/edit_text_hint_please_type"/>
 
         <TextView
-            android:layout_width="80dp"
+            android:layout_width="63dp"
             android:layout_height="wrap_content"
             android:layout_gravity="fill_horizontal|center_vertical"
             android:gravity="right"
