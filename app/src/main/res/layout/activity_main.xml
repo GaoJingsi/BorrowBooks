@@ -163,7 +163,7 @@
 
         </LinearLayout>
 
-<!--   为什么layout_height是wrap_content，但还是剩余了那么大的空间？     -->
+<!--   老师，在此提一个问题，您可以在评语上回答吗？为什么layout_height是wrap_content，但还是剩余了那么大的空间？     -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
