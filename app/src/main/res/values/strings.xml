@@ -8,4 +8,17 @@
     <string name="label_borrow_time">借书时间:</string>
     <string name="label_return_time">归还时间:</string>
     <string name="edit_text_hint_please_type">请输入</string>
+    <string name="label_hobby">爱好:</string>
+    <string name="checkbox_label_history">历史</string>
+    <string name="checkbox_label_xuanyi">悬疑</string>
+    <string name="checkbox_label_art">文艺</string>
+    <string name="label_age">年龄:</string>
+    <string name="label_age_min">18</string>
+    <string name="label_age_max">100</string>
+    <string name="desc_books">推荐书籍</string>
+    <string name="info_book_default_value">书籍</string>
+    <string name="info_book_type_default_value">类型</string>
+    <string name="info_book_age_default_value">适用年龄</string>
+    <string name="button_query">查询</string>
+    <string name="button_next_page">下一个</string>
 </resources>
